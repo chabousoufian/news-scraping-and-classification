@@ -25,7 +25,7 @@ get_news('business', 'business.csv')
 get_news('history', 'history.csv')
 get_news('politics', 'politics.csv')
 get_news('finance', 'finance.csv')
-get_news('literature', 'literature.csv')
+#get_news('literature', 'literature.csv')
 get_news('gym', 'gym.csv')
 
 csv_files = ["psychology.csv", "business.csv", "history.csv", "politics.csv", "finance.csv","literature.csv", "literature.csv" ]
